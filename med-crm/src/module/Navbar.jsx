@@ -1,5 +1,5 @@
 import styles from "./Navbar.module.scss";
-import * as IMG from "../components/images/7.jpg";
+import * as IMG from "../components/images/logo.jpg";
 import NavbarMenu from "./NavbarMenu/Navbar_Menu.jsx";
 
 const Navbar = () => {
